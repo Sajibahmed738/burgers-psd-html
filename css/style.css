@@ -133,6 +133,9 @@ text-transform: uppercase;
 	color: #3d2514;
 	padding: 20px 0;
 }
+
+/*order section design*/
+
 .order{
 	margin-bottom: 100px;
 }
@@ -160,6 +163,114 @@ text-transform: uppercase;
 	padding: 15px 40px;
 	color: white;
 }
+
+
+
+
+/*event design*/
+#event{
+	width: 100%;
+	padding: 50px;
+}
+#event h4{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 25px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #3d2514;
+	letter-spacing: 2px;
+}
+#event h2{
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 40px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #3d2514;
+	letter-spacing: 2px;
+	padding-bottom: 10px;
+}
+#event p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	text-transform: uppercase;
+	color: #3d3d3d;
+	padding-top: 10px;
+	padding-right: 15px;	
+}
+.box-shadow{
+box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;	padding: 20px;
+}
+.owl-nav{
+	display: none;
+}
+.owl-dots{
+	position: absolute;
+	left: 30px;
+	bottom: 20px;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+  background: #ffd600 !important;
+}
+
+
+
+/*reservation css design*/
+
+.reservation{
+	width: 100%;
+	text-align: center;
+}
+.reservation-bg{
+	background-image: url(../img/bg-2.png);
+	background-position: center;
+	background-size: cover;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+}
+.reservation-content{
+	padding: 200px 0;
+}
+.top-text h4{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 25px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #3d2514;
+	letter-spacing: 2px;
+}
+.top-text h2{
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 40px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #3d2514;
+	letter-spacing: 2px;
+	padding-bottom: 10px;
+}
+.form-box{
+	padding: 50px 0;
+}
+.form{
+	padding-bottom: 20px;
+}
+.form input{
+	width: 400px;
+	padding: 15px 20px;
+	margin: 15px;
+}
+.form a input {
+	font-family: 'Alfa Slab One', cursive;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	cursor: pointer;
+	border: none;
+}
+
+
 
 /*Footer section css  code start*/
 
